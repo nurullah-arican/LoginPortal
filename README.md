@@ -10,6 +10,37 @@ This project is a user management interface designed to handle basic operations 
 - **"Remember Me" Functionality**: Saves username for quicker login in future sessions if the option is selected.
 - **Database Flexibility**: Supports user-specific database configuration through the App.config file.
 
+# Application Screens
+
+## Login Screen
+![Login Screen](screenshots/LoginView.png)
+This screen is the panel where users log in to the system. In addition to the username and password fields, it includes:
+
+- **Remember Me**: Saves the user's login information for automatic filling in the next session.
+- **Forget Password**: Redirects to the password reset screen.
+- **Sign In and Sign Up buttons**: Used to log in or create a new account.
+- **StatusStrip**: Displays messages to inform the user about the login process (e.g., "Login successful" or "Incorrect username or password").
+
+## Registration Screen
+![Registration Screen](screenshots/RegistrationView.png)
+This screen is used to create a new user account. It includes the following fields:
+
+- **User Name**: The new username.
+- **Password and Confirm Password**: Password fields entered twice to confirm the new password.
+- **Submit**: Saves the new user information.
+- **Exit**: Exits the registration panel.
+- **StatusStrip**: Displays messages about the registration process (e.g., "Registration successful" or "Passwords do not match").
+
+## Password Reset Screen
+![Password Reset Screen](screenshots/ResetPasswordView.png)
+This screen is used for resetting forgotten passwords. It includes the following fields:
+
+- **User Name and Old Password**: Used to verify the user's identity.
+- **New Password and Confirm New Password**: The new password entered twice for confirmation.
+- **Reset Password**: Resets the password.
+- **Exit**: Exits the password reset panel.
+- **StatusStrip**: Provides feedback during the password reset process (e.g., "Password reset successful" or "Old password incorrect").
+
 ## Installation
 
 1. **Clone the Repository**:
