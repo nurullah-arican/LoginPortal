@@ -1,0 +1,17 @@
+C:\Projects\LoginPortal\UserManagementUI\bin\Release\LoginPortal.exe.config
+C:\Projects\LoginPortal\UserManagementUI\bin\Release\LoginPortal.exe
+C:\Projects\LoginPortal\UserManagementUI\bin\Release\LoginPortal.pdb
+C:\Projects\LoginPortal\UserManagementUI\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Projects\LoginPortal\UserManagementUI\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\LoginPortal.csproj.AssemblyReference.cache
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\LoginPortal.csproj.SuggestedBindingRedirects.cache
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\UserManagementUI.LoginPortal.resources
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\UserManagementUI.LoginView.resources
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\UserManagementUI.Properties.Resources.resources
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\UserManagementUI.RegisterView.resources
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\UserManagementUI.ResetPasswordView.resources
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\LoginPortal.csproj.GenerateResource.cache
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\LoginPortal.csproj.CoreCompileInputs.cache
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\LoginPortal.csproj.CopyComplete
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\LoginPortal.exe
+C:\Projects\LoginPortal\UserManagementUI\obj\Release\LoginPortal.pdb
