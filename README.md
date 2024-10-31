@@ -14,6 +14,7 @@ This project is a user management interface designed to handle basic operations 
 
 ## Login Screen
 ![Login Screen](screenshots/LoginView.png)
+
 This screen is the panel where users log in to the system. In addition to the username and password fields, it includes:
 
 - **Remember Me**: Saves the user's login information for automatic filling in the next session.
@@ -23,6 +24,7 @@ This screen is the panel where users log in to the system. In addition to the us
 
 ## Registration Screen
 ![Registration Screen](screenshots/RegistrationView.png)
+
 This screen is used to create a new user account. It includes the following fields:
 
 - **User Name**: The new username.
@@ -33,6 +35,7 @@ This screen is used to create a new user account. It includes the following fiel
 
 ## Password Reset Screen
 ![Password Reset Screen](screenshots/ResetPasswordView.png)
+
 This screen is used for resetting forgotten passwords. It includes the following fields:
 
 - **User Name and Old Password**: Used to verify the user's identity.
