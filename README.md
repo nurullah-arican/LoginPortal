@@ -93,7 +93,7 @@ Example connection string:
 
 ## Requirements
 
-- **.NET Framework**: This application requires .NET Framework version (specify version here).
+- **.NET Framework**: This application requires .NET Framework version 4.8.
 - **SQL Server**: A SQL Server database with a `UserManagement` table structure is expected for this application to function properly.
 
 ## Troubleshooting
